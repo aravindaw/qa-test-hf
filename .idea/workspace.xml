@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8aa7ec71-75b6-431f-b62d-eaa97b413bdc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1908821704">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="java" value="33" />
+          <entry key="md" value="2" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="33" />
+          <entry key="Markdown" value="2" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3132" />
+          <entry key="properties" value="21" />
+          <entry key="xml" value="86" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3132" />
+          <entry key="Properties" value="21" />
+          <entry key="XML" value="86" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/WebTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="112" column="56" selection-start-line="112" selection-start-column="56" selection-end-line="112" selection-end-column="56" />
+              <folding>
+                <element signature="e#1087#1088#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/ItemPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC2_LogInTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC1_RegisterNewUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/testPlans/suite.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC3_CheckoutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/documents/CheckoutTestDocument.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/OrderPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="280" column="31" selection-start-line="280" selection-start-column="31" selection-end-line="280" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>email_create</find>
+      <find>SubmitCreate</find>
+      <find>login</find>
+      <find>sign</find>
+      <find>id_gender2</find>
+      <find>id_gender</find>
+      <find>customer_firstname</find>
+      <find>submitAccount</find>
+      <find>clickRegisterButton</find>
+      <find>page-heading</find>
+      <find>account</find>
+      <find>center_column</find>
+      <find>info-account</find>
+      <find>logout</find>
+      <find>h1</find>
+      <find>id_state</find>
+      <find>state</find>
+      <find>state</find>
+      <find>email</find>
+      <find>signin</find>
+      <find>Submit</find>
+      <find>address</find>
+      <find>uniform-cgv</find>
+      <find>processCarrier</find>
+      <find>CONFIRMATION</find>
+      <find>Faded Short Sleeve T-shirts</find>
+      <find>Proceed to checkout</find>
+      <find>maven-compiler-plugi</find>
+      <find>n</find>
+      <find>maven-compiler-plugin</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/SigninPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/AccountPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/StartDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/ScreenShots.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC_RegisterNewUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC2_RegisterNewUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC1_RegisterNewUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/contexts/RegisterNewCustomerContext.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/documents/RegisterNewCustomerDocument.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/contexts/CustomerDetailContext.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/documents/LogInTestDocument.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/MyStore-Womwn.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/OrderConfirmationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/MyStoreWomwn.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/WebTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/ItemPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/OrderPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/documents/CheckoutTestDocument.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC3_CheckoutTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC2_LogInTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="contexts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="testPlans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-test-hf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538248704385" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hellofresh.challenge.documents" />
+      <recent name="com.hellofresh.challenge.scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/testPlans" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml">
+    <configuration name="WebTest.checkoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hellofresh.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hellofresh.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.hellofresh.challenge.WebTest" />
+      <option name="METHOD_NAME" value="checkoutTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITC1_RegisterNewUser" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hellofresh.challenge.scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hellofresh.challenge.scripts" />
+      <option name="MAIN_CLASS_NAME" value="com.hellofresh.challenge.scripts.UITC1_RegisterNewUser" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITC2_LogInTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hellofresh.challenge.scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hellofresh.challenge.scripts" />
+      <option name="MAIN_CLASS_NAME" value="com.hellofresh.challenge.scripts.UITC2_LogInTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITC3_CheckoutTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hellofresh.challenge.scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hellofresh.challenge.scripts" />
+      <option name="MAIN_CLASS_NAME" value="com.hellofresh.challenge.scripts.UITC3_CheckoutTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.UITC1_RegisterNewUser" />
+      <item itemvalue="TestNG.UITC2_LogInTest" />
+      <item itemvalue="JUnit.WebTest.checkoutTest" />
+      <item itemvalue="TestNG.UITC3_CheckoutTest" />
+      <item itemvalue="TestNG./Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" />
+        <item itemvalue="TestNG.UITC3_CheckoutTest" />
+        <item itemvalue="JUnit.WebTest.checkoutTest" />
+        <item itemvalue="TestNG.UITC2_LogInTest" />
+        <item itemvalue="TestNG.UITC1_RegisterNewUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aa7ec71-75b6-431f-b62d-eaa97b413bdc" name="Default Changelist" comment="" />
+      <created>1538195503665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538195503665</updated>
+      <workItem from="1538195508560" duration="30181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UITC3_CheckoutTest - 2018.09.30 at 00h 51m 31s.xml">
+      <configuration name="UITC3_CheckoutTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UITC3_CheckoutTest - 2018.09.30 at 00h 55m 14s.xml">
+      <configuration name="UITC3_CheckoutTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UITC3_CheckoutTest - 2018.09.30 at 01h 00m 01s.xml">
+      <configuration name="UITC3_CheckoutTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UITC3_CheckoutTest - 2018.09.30 at 01h 06m 00s.xml">
+      <configuration name="UITC3_CheckoutTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aravindaweerasekara_projects_qa-test-hf_src_test_java_com_hellofresh_challenge_testPlans_suite_xml - 2018.09.30 at 01h 11m 40s.xml">
+      <configuration name="/Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aravindaweerasekara_projects_qa-test-hf_src_test_java_com_hellofresh_challenge_testPlans_suite_xml - 2018.09.30 at 01h 32m 00s.xml">
+      <configuration name="/Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aravindaweerasekara_projects_qa-test-hf_src_test_java_com_hellofresh_challenge_testPlans_suite_xml - 2018.09.30 at 01h 34m 52s.xml">
+      <configuration name="/Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aravindaweerasekara_projects_qa-test-hf_src_test_java_com_hellofresh_challenge_testPlans_suite_xml - 2018.09.30 at 01h 37m 46s.xml">
+      <configuration name="/Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aravindaweerasekara_projects_qa-test-hf_src_test_java_com_hellofresh_challenge_testPlans_suite_xml - 2018.09.30 at 01h 41m 14s.xml">
+      <configuration name="/Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_aravindaweerasekara_projects_qa-test-hf_src_test_java_com_hellofresh_challenge_testPlans_suite_xml - 2018.09.30 at 01h 45m 16s.xml">
+      <configuration name="/Users/aravindaweerasekara/projects/qa-test-hf/src/test/java/com/hellofresh/challenge/testPlans/suite.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30181000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5213">
+          <caret line="411" column="55" selection-start-line="411" selection-start-column="55" selection-end-line="411" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar!/org/openqa/selenium/support/ui/Select.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar!/org/openqa/selenium/OutputType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/ScreenShots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" column="103" selection-start-line="13" selection-start-column="103" selection-end-line="13" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/StartDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TESTCASES.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/documents/RegisterNewCustomerDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/SigninPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="265" column="27" selection-start-line="265" selection-start-column="21" selection-end-line="265" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/contexts/CustomerDetailContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/MyStore-Womwn.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/documents/LogInTestDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/OrderConfirmationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/contexts/CheckoutContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="594" column="39" selection-start-line="594" selection-start-column="21" selection-end-line="594" selection-end-column="39" />
+          <folding>
+            <element signature="e#19984#19985#0" expanded="true" />
+            <element signature="e#20061#20062#0" expanded="true" />
+            <element signature="e#20505#20506#0" expanded="true" />
+            <element signature="e#20582#20583#0" expanded="true" />
+            <element signature="e#21545#21546#0" expanded="true" />
+            <element signature="e#21614#21615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/AccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="800" column="23" selection-start-line="800" selection-start-column="23" selection-end-line="800" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/MyStoreWomwn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="717" column="22" selection-start-line="717" selection-start-column="22" selection-end-line="717" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="127" column="48" selection-start-line="127" selection-start-column="48" selection-end-line="127" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/ItemPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/pages/OrderPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="280" column="31" selection-start-line="280" selection-start-column="31" selection-end-line="280" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/WebTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="112" column="56" selection-start-line="112" selection-start-column="56" selection-end-line="112" selection-end-column="56" />
+          <folding>
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/documents/CheckoutTestDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/testPlans/suite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC1_RegisterNewUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC2_LogInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hellofresh/challenge/scripts/UITC3_CheckoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

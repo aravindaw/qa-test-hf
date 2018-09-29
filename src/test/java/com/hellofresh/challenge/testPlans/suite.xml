@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test user based test cases" parallel="methods" thread-count="3" verbose="10">
+    <test name="TC01">
+        <classes>
+            <class name="com.hellofresh.challenge.scripts.UITC1_RegisterNewUser"/>
+        </classes>
+    </test>
+    <test name="TC02">
+        <classes>
+            <class name="com.hellofresh.challenge.scripts.UITC2_LogInTest"/>
+        </classes>
+    </test>
+    <test name="TC03">
+        <classes>
+            <class name="com.hellofresh.challenge.scripts.UITC3_CheckoutTest"/>
+        </classes>
+    </test>
+</suite>
